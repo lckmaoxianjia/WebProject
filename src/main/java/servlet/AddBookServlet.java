@@ -19,8 +19,6 @@ import java.text.SimpleDateFormat;
 import java.util.HashMap;
 import java.util.Map;
 
-//test
-
 @WebServlet(name = "AddBookServlet", value = "/addBook")
 public class AddBookServlet extends HttpServlet {
     @Override
